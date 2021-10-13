@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonaWeb", "PersonaWeb\PersonaWeb.csproj", "{29E4B9BC-7F8C-4D9D-833C-B23E8A154C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personaApi", "personaApi\personaApi.csproj", "{B0BBF512-4C7B-4B5E-8D81-E5C727B08ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E4B9BC-7F8C-4D9D-833C-B23E8A154C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E4B9BC-7F8C-4D9D-833C-B23E8A154C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E4B9BC-7F8C-4D9D-833C-B23E8A154C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E4B9BC-7F8C-4D9D-833C-B23E8A154C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BBF512-4C7B-4B5E-8D81-E5C727B08ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BBF512-4C7B-4B5E-8D81-E5C727B08ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BBF512-4C7B-4B5E-8D81-E5C727B08ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BBF512-4C7B-4B5E-8D81-E5C727B08ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118120ED-BC64-4B2C-B99F-65B34839875F}
+	EndGlobalSection
+EndGlobal
